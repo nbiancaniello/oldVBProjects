@@ -1,0 +1,25 @@
+<PUBLIC:ATTACH EVENT="onkeypress" ONEVENT="text_OnKeyPress()"/>
+<PUBLIC:ATTACH EVENT="onpaste" ONEVENT="text_OnPaste()"/>
+ 
+<SCRIPT LANGUAGE="JavaScript"> 
+
+function text_OnKeyPress()
+{ 
+
+	var  xAllow="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz ";
+	var Obj = event.srcElement;
+    
+	if(xAllow.indexOf(String.fromCharCode(event.keyCode))==-1)
+	{
+		if ((event.keyCode != 225) && (event.keyCode != 233) && (event.keyCode != 237) && (event.keyCode != 243) && (event.keyCode != 250)&& (event.keyCode != 193)&& (event.keyCode != 201)&& (event.keyCode != 205)&& (event.keyCode != 211)&& (event.keyCode != 218)&& (event.keyCode != 46))
+			event.returnValue=false
+	} 	 
+	
+} 
+ 
+function text_OnPaste()
+{
+	if (event.ctrlKey) 
+		event.returnValue=false 
+}
+</SCRIPT>

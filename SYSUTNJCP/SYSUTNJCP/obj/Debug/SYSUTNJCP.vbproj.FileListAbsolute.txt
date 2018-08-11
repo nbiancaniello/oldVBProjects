@@ -1,0 +1,3 @@
+C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\obj\Debug\SYSUTNJCP.exe
+C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\obj\Debug\SYSUTNJCP.xml
+C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\obj\Debug\SYSUTNJCP.pdb

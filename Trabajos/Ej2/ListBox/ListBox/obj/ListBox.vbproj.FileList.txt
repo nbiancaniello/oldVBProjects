@@ -1,0 +1,11 @@
+bin\Debug\ListBox.exe
+bin\Debug\ListBox.pdb
+bin\Debug\ListBox.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ListBox.Resources.resources
+obj\Debug\ListBox.vbproj.GenerateResource.Cache
+obj\Debug\ListBox.exe
+obj\Debug\ListBox.xml
+obj\Debug\ListBox.pdb
+obj\Debug\ListBox.frm_Calculadora.resources
+obj\Debug\ListBox.frm_ListBox.resources

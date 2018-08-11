@@ -1,0 +1,248 @@
+﻿body 
+{
+	background-color:#ecf4ff;
+}
+
+.etiquetas
+{
+	font-family: "Verdana";
+	font-size:medium;
+	background-color:#ecf4ff;
+}
+
+.LetrasVerdanaAzulBold10 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000099; FONT-FAMILY: Verdana
+}
+
+.lblGray11px
+{
+	border-right: lightsteelblue thin outset;
+	border-top: lightsteelblue thin outset;
+	font-weight: bold;
+	font-size: 11px;
+	border-left: lightsteelblue thin outset;
+	color: White;
+	border-bottom: lightsteelblue thin outset;
+	font-family: Tahoma;
+	background-color: Gray;
+	width:80px;
+}
+
+.lblGray11pxSel
+{
+	border-right: lightsteelblue thin outset;
+	border-top: lightsteelblue thin outset;
+	font-weight: bold;
+	font-size: 11px;
+	border-left: lightsteelblue thin outset;
+	color: Aqua;
+	border-bottom: lightsteelblue thin outset;
+	font-family: Tahoma;
+	background-color: Gray;
+	width:80px;
+}
+
+.lblBoldUpperXXS
+{
+	font-weight: bold;
+	font-size:xx-small;
+	text-transform: uppercase;
+	font-family:Tahoma;
+	text-decoration: none;
+	vertical-align:middle;
+}
+
+.lblError
+{
+	font-size:11px;
+	font-family:Tahoma;	
+	color:Red;
+}
+
+.ComboBox
+{
+	font-family:Tahoma;
+	font-size: 11px;
+	vertical-align:middle;
+}
+
+
+.TextBox
+{
+	font-family:Tahoma;
+	font-size: 11px;	
+	vertical-align:middle;
+}
+
+.TextBoxDATE
+{
+	font-family:Tahoma;
+	font-size: 11px;	
+	vertical-align:middle;
+	behavior: url(../Behaviors/txDate.htc); 
+}
+
+
+.TextBoxNumero
+{
+	font-family:Tahoma;
+	font-size: 11px;	
+	vertical-align:middle;
+	behavior: url(../behaviors/txNumeros.htc);
+}
+
+.TextBoxTelefono
+{
+	font-family:Tahoma;
+	font-size: 11px;	
+	vertical-align:middle;
+	behavior: url(../behaviors/txTelefono.htc);
+}
+
+.TextBoxAlfaNumerico
+{
+	font-family:Tahoma;
+	font-size: 11px;	
+	vertical-align:middle;
+	behavior: url(../behaviors/txNumbersDigitsAndSpace.htc);
+}
+
+.TextBoxLetras
+{
+	font-family:Tahoma;
+	font-size: 11px;	
+	vertical-align:middle;
+	behavior: url(../behaviors/txLetras.htc);
+}
+
+.TextBoxLetrasMay
+{
+	font-family:Tahoma;
+	font-size: 11px;	
+	vertical-align:middle;
+	text-transform: uppercase;
+	behavior: url(../behaviors/txLetras.htc);
+}
+
+
+.TextBoxShortDATE
+{
+	font-family:Tahoma;
+	font-size: 11px;	
+	vertical-align:middle;
+	behavior: url(../behaviors/txDateShort.htc); 
+}
+
+.TextBoxDNI
+{
+	font-family:Tahoma;
+	font-size: 11px;	
+	vertical-align:middle;
+	behavior: url(../Behaviors/mascaraDni.htc);
+}
+
+.RequiredField
+{
+	font-family:Tahoma;
+	font-size: 11px;	
+	vertical-align:middle;
+	vertical-align:middle;
+	background-color:#B8E0FE;
+}
+
+
+.ButtonBlue11px
+{
+	border-right: lightsteelblue thin outset;
+	border-top: lightsteelblue thin outset;
+	font-weight: bold;
+	font-size: 11px;
+	border-left: lightsteelblue thin outset;
+	color: white;
+	border-bottom: lightsteelblue thin outset;
+	font-family: Tahoma;
+	background-color: blue;
+	width:80px;	
+}
+
+
+.ButtonBlue11pxDisable
+{
+	border-right: lightsteelblue thin outset;
+	border-top: lightsteelblue thin outset;
+	font-weight: bold;
+	font-size: 11px;
+	border-left: lightsteelblue thin outset;
+	color:Black;
+	border-bottom: lightsteelblue thin outset;
+	font-family: Tahoma;
+	background-color:Gray;
+	width:80px;	
+}
+
+
+/************************************************************************************/
+/* DATAGRIDS																		*/
+/************************************************************************************/
+
+.DataGrid
+{
+	background-color:White;
+	border-color:White;
+	border-style:ridge;
+	border-width:2px;
+	font-size:11px;
+	font-family:Tahoma;
+}
+
+.DataGridSelectedItem
+{
+	font-size:11px;
+	font-family:Tahoma;
+	font-weight:bold;
+	background-color:#A1C6EB;
+	color:Black;
+}
+
+.DataGridItem
+{
+	background-color:#A1C6EB;
+	color:Black;
+}
+
+.DataGridHeader
+{
+	background-color:#1E77D3;
+	color:#E7E7FF;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size:10px;
+	text-align:center;
+	height:20px;
+}
+
+.DataGridFooter
+{
+	background-color:#C6C3C6;
+	color:Black;
+}
+.MyCalendar .ajax__calendar_container {
+    border:1px solid #646464;
+    
+    color: red;
+}
+.MyCalendar .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}

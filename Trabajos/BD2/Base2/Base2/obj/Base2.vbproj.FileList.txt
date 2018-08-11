@@ -1,0 +1,11 @@
+obj\Debug\Base2.exe
+obj\Debug\Base2.xml
+obj\Debug\Base2.pdb
+bin\Debug\Base2.exe
+bin\Debug\Base2.pdb
+bin\Debug\Base2.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Base2.frm_agrmodlocalidades.resources
+obj\Debug\Base2.frm_localidades.resources
+obj\Debug\Base2.Resources.resources
+obj\Debug\Base2.vbproj.GenerateResource.Cache

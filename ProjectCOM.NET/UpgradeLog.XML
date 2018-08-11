@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ProjectCOM">
+</Property><Property Name="Solution File" Value="G:\COM\ProjectCOM.NET\ProjectCOM.sln">
+</Property><Property Name="User Options File" Value="G:\COM\ProjectCOM.NET\ProjectCOM.suo">
+</Property><Property Name="Date" Value="Lunes, 04 de Junio de 2007">
+</Property><Property Name="Time" Value="21:28">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ProjectCOM.sln" Description="File successfully backed up as F:\Biancaniello Nicolas\javi\Backup\ProjectCOM.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ProjectCOM.suo" Description="File successfully backed up as F:\Biancaniello Nicolas\javi\Backup\ProjectCOM.suo">
+</Event><Event ErrorLevel="0" Project="ProjectCOM" Source="ProjectCOM.vbproj" Description="Project file successfully backed up as F:\Biancaniello Nicolas\javi\Backup\ProjectCOM.vbproj">
+</Event><Event ErrorLevel="0" Project="ProjectCOM" Source="ProjectCOM.vbproj.user" Description="Project user file successfully backed up as F:\Biancaniello Nicolas\javi\Backup\ProjectCOM.vbproj.user">
+</Event><Event ErrorLevel="0" Project="ProjectCOM" Source="AssemblyInfo.vb" Description="File successfully backed up as F:\Biancaniello Nicolas\javi\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="ProjectCOM" Source="Form1.vb" Description="File successfully backed up as F:\Biancaniello Nicolas\javi\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="ProjectCOM" Source="_UpgradeReport.htm" Description="File successfully backed up as F:\Biancaniello Nicolas\javi\Backup\_UpgradeReport.htm">
+</Event><Event ErrorLevel="0" Project="ProjectCOM" Source="Form1.resX" Description="File successfully backed up as F:\Biancaniello Nicolas\javi\Backup\Form1.resX">
+</Event><Event ErrorLevel="0" Project="ProjectCOM" Source="ProjectCOM.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ProjectCOM" Source="ProjectCOM.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ProjectCOM.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ProjectCOM.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ProjectCOM" Source="ProjectCOM.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

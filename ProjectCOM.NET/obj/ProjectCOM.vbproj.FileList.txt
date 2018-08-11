@@ -1,0 +1,14 @@
+obj\Debug\Project1.exe
+obj\Debug\Project1.pdb
+bin\Project1.exe
+bin\Project1.pdb
+bin\Project1.xml
+bin\Interop.MSCommLib.dll
+bin\AxInterop.MSCommLib.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.MSCommLib.dll
+obj\Debug\AxInterop.MSCommLib.dll
+obj\Debug\ProjectCOM.vbproj.ResolveComReference.cache
+obj\Debug\Project1.Form1.resources
+obj\Debug\ProjectCOM.vbproj.GenerateResource.Cache
+obj\Debug\Project1.xml

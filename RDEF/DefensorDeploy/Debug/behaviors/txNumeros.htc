@@ -1,0 +1,24 @@
+<PUBLIC:ATTACH EVENT="onkeypress" ONEVENT="text_OnKeyPress()"/>
+<PUBLIC:ATTACH EVENT="onpaste" ONEVENT="text_OnPaste()"/>
+ 
+<SCRIPT LANGUAGE="JavaScript"> 
+
+function text_OnKeyPress()
+{ 
+
+	var  xAllow="0123456789";
+	var Obj = event.srcElement;
+    
+	if(xAllow.indexOf(String.fromCharCode(event.keyCode))==-1)
+	{
+			event.returnValue=false
+	} 	 
+	
+} 
+ 
+function text_OnPaste()
+{
+	if (event.ctrlKey) 
+		event.returnValue=false 
+}
+</SCRIPT>

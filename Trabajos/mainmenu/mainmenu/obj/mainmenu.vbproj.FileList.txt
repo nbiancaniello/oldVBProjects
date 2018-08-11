@@ -1,0 +1,12 @@
+bin\Debug\mainmenu.exe
+bin\Debug\mainmenu.pdb
+bin\Debug\mainmenu.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\mainmenu.frm_localidades.resources
+obj\Debug\mainmenu.mainmenu.resources
+obj\Debug\mainmenu.Resources.resources
+obj\Debug\mainmenu.vbproj.GenerateResource.Cache
+obj\Debug\mainmenu.exe
+obj\Debug\mainmenu.xml
+obj\Debug\mainmenu.pdb
+obj\Debug\mainmenu.frm_clientes.resources

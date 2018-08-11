@@ -1,0 +1,11 @@
+bin\Debug\SLNTercero.exe
+bin\Debug\SLNTercero.pdb
+bin\Debug\SLNTercero.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SLNTercero.Resources.resources
+obj\Debug\SLNTercero.vbproj.GenerateResource.Cache
+obj\Debug\SLNTercero.exe
+obj\Debug\SLNTercero.xml
+obj\Debug\SLNTercero.pdb
+obj\Debug\SLNTercero.Objetos.resources
+obj\Debug\SLNTercero.Validar_Datos.resources

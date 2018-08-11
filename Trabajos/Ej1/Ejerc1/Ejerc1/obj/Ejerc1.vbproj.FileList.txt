@@ -1,0 +1,10 @@
+bin\Debug\Ejerc1.exe
+bin\Debug\Ejerc1.pdb
+bin\Debug\Ejerc1.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Ejerc1.Form1.resources
+obj\Debug\Ejerc1.Resources.resources
+obj\Debug\Ejerc1.vbproj.GenerateResource.Cache
+obj\Debug\Ejerc1.exe
+obj\Debug\Ejerc1.xml
+obj\Debug\Ejerc1.pdb

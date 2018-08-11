@@ -1,0 +1,10 @@
+bin\Debug\ClaseEmpleado.exe
+bin\Debug\ClaseEmpleado.pdb
+bin\Debug\ClaseEmpleado.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ClaseEmpleado.Form1.resources
+obj\Debug\ClaseEmpleado.Resources.resources
+obj\Debug\ClaseEmpleado.vbproj.GenerateResource.Cache
+obj\Debug\ClaseEmpleado.exe
+obj\Debug\ClaseEmpleado.xml
+obj\Debug\ClaseEmpleado.pdb

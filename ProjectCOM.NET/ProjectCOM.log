@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpgradeLog>
+    <Settings>
+        <Setting
+            Name = "LogFile"
+            Value = "ProjectCOM.log"
+        />
+        <Setting
+            Name = "GenerateInterfacesForClasses"
+            Value = "FALSE"
+        />
+        <Setting
+            Name = "ProjectName"
+            Value = "ProjectCOM"
+        />
+        <Setting
+            Name = "OutputName"
+            Value = "ProjectCOM.vbproj"
+        />
+        <Setting
+            Name = "OutputDir"
+            Value = "D:\Documents and Settings\Cecilia Cabrera\Escritorio\COM\ProjectCOM.NET"
+        />
+        <Setting
+            Name = "ProjectPath"
+            Value = "D:\Documents and Settings\Cecilia Cabrera\Escritorio\COM\ProjectCOM.vbp"
+        />
+        <Setting
+            Name = "MigrateProjectTo"
+            Value = "0"
+        />
+    </Settings>
+    <File
+        OldPath = "D:\Documents and Settings\Cecilia Cabrera\Escritorio\COM\Form1.frm"
+        NewPath = "D:\Documents and Settings\Cecilia Cabrera\Escritorio\COM\ProjectCOM.NET\Form1.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+</UpgradeLog>
+

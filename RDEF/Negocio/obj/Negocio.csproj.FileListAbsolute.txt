@@ -1,0 +1,28 @@
+D:\RDEF\Negocio\obj\Debug\ResolveAssemblyReference.cache
+D:\RDEF\Negocio\bin\Debug\Negocio.dll
+D:\RDEF\Negocio\bin\Debug\Negocio.pdb
+D:\RDEF\Negocio\bin\Debug\Entidades.dll
+D:\RDEF\Negocio\bin\Debug\Entidades.pdb
+D:\RDEF\Negocio\obj\Debug\Negocio.dll
+D:\RDEF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Nico\Documents\Visual Studio 2005\Projects\RDEF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Nico\Documents\Visual Studio 2005\Projects\RDEF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Nico\Documents\Visual Studio 2005\Projects\RDEF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Nico\Documents\Visual Studio 2005\Projects\RDEF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Nico\Documents\Visual Studio 2005\Projects\RDEF\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Visual Studio 2005\Projects\RDEF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Nico\Documents\Visual Studio 2005\Projects\RDEF\Negocio\obj\Debug\Negocio.pdb
+C:\Documents and Settings\Administrador\Escritorio\RDEF\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\RDEF\Negocio\obj\Debug\Negocio.dll
+C:\Documents and Settings\Administrador\Escritorio\RDEF\Negocio\bin\Debug\Negocio.dll
+C:\Documents and Settings\Administrador\Escritorio\RDEF\Negocio\bin\Debug\Negocio.pdb
+C:\Documents and Settings\Administrador\Escritorio\RDEF\Negocio\bin\Debug\Entidades.dll
+C:\Documents and Settings\Administrador\Escritorio\RDEF\Negocio\bin\Debug\Entidades.pdb
+C:\Documents and Settings\Administrador\Escritorio\RDEF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Nico\Documents\RDEF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Nico\Documents\RDEF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Nico\Documents\RDEF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Nico\Documents\RDEF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Nico\Documents\RDEF\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nico\Documents\RDEF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Nico\Documents\RDEF\Negocio\obj\Debug\Negocio.pdb

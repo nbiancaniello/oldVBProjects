@@ -1,0 +1,3 @@
+Module MTabla
+    Public Const ruta As String = "DATA SOURCE=(LOCAL);INITIAL CATALOG=SICA;USER ID=SA;PASSWORD='';INTEGRATED SECURITY=SSPI "
+End Module

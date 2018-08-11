@@ -1,0 +1,20 @@
+D:\RDEF\Entidades\bin\Debug\Entidades.dll
+D:\RDEF\Entidades\bin\Debug\Entidades.pdb
+D:\RDEF\Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\RDEF\Entidades\obj\Debug\Entidades.dll
+D:\RDEF\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Nico\Documents\Visual Studio 2005\Projects\RDEF\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nico\Documents\Visual Studio 2005\Projects\RDEF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nico\Documents\Visual Studio 2005\Projects\RDEF\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Visual Studio 2005\Projects\RDEF\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nico\Documents\Visual Studio 2005\Projects\RDEF\Entidades\obj\Debug\Entidades.pdb
+C:\Documents and Settings\Administrador\Escritorio\RDEF\Entidades\bin\Debug\Entidades.dll
+C:\Documents and Settings\Administrador\Escritorio\RDEF\Entidades\bin\Debug\Entidades.pdb
+C:\Documents and Settings\Administrador\Escritorio\RDEF\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\RDEF\Entidades\obj\Debug\Entidades.dll
+C:\Documents and Settings\Administrador\Escritorio\RDEF\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Nico\Documents\RDEF\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nico\Documents\RDEF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nico\Documents\RDEF\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nico\Documents\RDEF\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nico\Documents\RDEF\Entidades\obj\Debug\Entidades.pdb

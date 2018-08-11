@@ -1,0 +1,14 @@
+bin\Debug\SLNCuarta.exe
+bin\Debug\SLNCuarta.pdb
+bin\Debug\SLNCuarta.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SLNCuarta.Rutinas.resources
+obj\Debug\SLNCuarta.Resources.resources
+obj\Debug\SLNCuarta.vbproj.GenerateResource.Cache
+obj\Debug\SLNCuarta.exe
+obj\Debug\SLNCuarta.xml
+obj\Debug\SLNCuarta.pdb
+obj\Debug\SLNCuarta.Acceso.resources
+obj\Debug\SLNCuarta.DatosPersonales.resources
+obj\Debug\SLNCuarta.BaseDeDatos.resources
+obj\Debug\SLNCuarta.Buscar.resources

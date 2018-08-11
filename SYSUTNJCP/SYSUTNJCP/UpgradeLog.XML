@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SYSUTNJCP">
+</Property><Property Name="Solution File" Value="C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\SYSUTNJCP.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\SYSUTNJCP.suo">
+</Property><Property Name="Date" Value="miércoles, 17 de marzo de 2010">
+</Property><Property Name="Time" Value="23:45">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SYSUTNJCP.sln" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\SYSUTNJCP.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SYSUTNJCP.suo" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\SYSUTNJCP.suo">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="SYSUTNJCP.vbproj" Description="Project file successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\SYSUTNJCP.vbproj">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="abm_mantenimiento.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\abm_mantenimiento.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="abm_mantenimiento.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\abm_mantenimiento.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="acercade.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\acercade.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="acercade.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\acercade.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="altas_alumnos.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\altas_alumnos.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="altas_alumnos.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\altas_alumnos.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="altas_profesores.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\altas_profesores.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="altas_profesores.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\altas_profesores.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="alta_usuario.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\alta_usuario.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="alta_usuario.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\alta_usuario.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="bajas_alumnos.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\bajas_alumnos.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="bajas_alumnos.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\bajas_alumnos.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="baja_usuario.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\baja_usuario.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="baja_usuario.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\baja_usuario.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="cambiar_clave.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\cambiar_clave.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="cambiar_clave.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\cambiar_clave.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="cambiar_permisos.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\cambiar_permisos.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="cambiar_permisos.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\cambiar_permisos.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="datos_personales_alumnos.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\datos_personales_alumnos.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="datos_personales_alumnos.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\datos_personales_alumnos.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="Instancias.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\Instancias.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="Instancias.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\Instancias.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="login.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\login.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="login.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\login.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="notas_por_alumno_introductorio.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\notas_por_alumno_introductorio.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="notas_por_alumno_introductorio.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\notas_por_alumno_introductorio.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="pantalla_principal.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\pantalla_principal.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="pantalla_principal.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\pantalla_principal.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="Generico.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\Generico.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="planillas_asistencia.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\planillas_asistencia.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="planillas_asistencia.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\planillas_asistencia.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="asistencias_introductorio.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\asistencias_introductorio.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="asistencias_introductorio.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\asistencias_introductorio.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="solapa_abm.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\solapa_abm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="solapa_abm.vb" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\solapa_abm.vb">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="My Project\Application.myapp" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="My Project\Settings.settings" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="abm_mantenimiento.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\abm_mantenimiento.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="acercade.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\acercade.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="altas_alumnos.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\altas_alumnos.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="altas_profesores.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\altas_profesores.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="alta_usuario.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\alta_usuario.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="bajas_alumnos.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\bajas_alumnos.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="baja_usuario.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\baja_usuario.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="cambiar_clave.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\cambiar_clave.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="cambiar_permisos.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\cambiar_permisos.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="datos_personales_alumnos.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\datos_personales_alumnos.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="Instancias.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\Instancias.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="login.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\login.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="notas_por_alumno_introductorio.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\notas_por_alumno_introductorio.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="pantalla_principal.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\pantalla_principal.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="planillas_asistencia.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\planillas_asistencia.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="asistencias_introductorio.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\asistencias_introductorio.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="solapa_abm.resx" Description="File successfully backed up as C:\Users\Nico\Documents\Facultad\TSP\SYSUTNJCP\SYSUTNJCP\Backup\solapa_abm.resx">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="SYSUTNJCP.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SYSUTNJCP" Source="SYSUTNJCP.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SYSUTNJCP.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SYSUTNJCP.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SYSUTNJCP" Source="SYSUTNJCP.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

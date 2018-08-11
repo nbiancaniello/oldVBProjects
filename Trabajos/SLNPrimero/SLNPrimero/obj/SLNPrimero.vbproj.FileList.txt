@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsAplication1.Resources.resources
+bin\Debug\SLNPrimero.exe
+bin\Debug\SLNPrimero.pdb
+bin\Debug\SLNPrimero.xml
+obj\Debug\SLNPrimero.vbproj.GenerateResource.Cache
+obj\Debug\SLNPrimero.exe
+obj\Debug\SLNPrimero.xml
+obj\Debug\SLNPrimero.pdb
+obj\Debug\WindowsAplication1.frm_colores.resources
+obj\Debug\WindowsAplication1.frm_logueo.resources
+obj\Debug\WindowsAplication1.frm_key.resources

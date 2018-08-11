@@ -1,0 +1,10 @@
+obj\Debug\Prueba4.exe
+obj\Debug\Prueba4.xml
+obj\Debug\Prueba4.pdb
+bin\Debug\Prueba4.exe
+bin\Debug\Prueba4.pdb
+bin\Debug\Prueba4.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Prueba4.Form1.resources
+obj\Debug\Prueba4.Resources.resources
+obj\Debug\Prueba4.vbproj.GenerateResource.Cache
